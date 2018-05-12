@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32786'
     url: http://www.gutenberg.org/2009/agents/32786
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27583#The-Importance-of-the-Proof-readerA-Paper-read-before-the-Club-of-Odd-Volumes-in-Boston-by-Jo_
 gutenberg_issued: '2008-12-21'
 gutenberg_type: Text
 identifiers:
