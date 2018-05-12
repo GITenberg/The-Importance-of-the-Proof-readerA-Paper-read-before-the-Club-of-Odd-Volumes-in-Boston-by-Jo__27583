@@ -1,0 +1,28 @@
+_repo: The-Importance-of-the-Proof-readerA-Paper-read-before-the-Club-of-Odd-Volumes-in-Boston-by-Jo__27583
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, John
+    birthdate: 1826
+    gutenberg_agent_id: '32786'
+    url: http://www.gutenberg.org/2009/agents/32786
+description: ''
+gutenberg_issued: '2008-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27583'
+  lccn: '15006710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Proofreading'
+title: 'The Importance of the Proof-reader
+
+  A Paper read before the Club of Odd Volumes, in Boston, by John Wilson'
+url: http://www.gutenberg.org/ebooks/27583
